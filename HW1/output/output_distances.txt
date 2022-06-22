@@ -1,0 +1,16 @@
+talk.politics.guns:talk.politics.guns		0.36	1.37	0.55	0.72	104.91 	12.20
+talk.politics.guns:comp.sys.mac.hardware	0.35	1.28	0.52	0.68	92.60	11.18
+talk.politics.guns:talk.religion.misc		0.38	1.31	0.53	0.69	143.52	12.68
+talk.politics.guns:rec.autos			0.34	1.35	0.52	0.69	136.74	13.85
+talk.politics.guns:comp.graphics		0.40	1.33	0.56	0.72	94.88	11.34
+comp.sys.mac.hardware:comp.sys.mac.hardware	0.33	1.18	0.47	0.62	80.38	10.09
+comp.sys.mac.hardware:talk.religion.misc	0.37	1.22	0.49	0.64	132.66	11.71
+comp.sys.mac.hardware:rec.autos			0.33	1.27	0.48	0.64	125.02	12.79
+comp.sys.mac.hardware:comp.graphics		0.39	1.23	0.52	0.67	82.38	10.24
+talk.religion.misc:talk.religion.misc		0.39	1.24	0.50	0.65	179.84	12.97
+talk.religion.misc:rec.autos			0.37	1.30	0.50	0.65	173.86	14.32
+talk.religion.misc:comp.graphics		0.42	1.27	0.54	0.69	134.42	11.88
+rec.autos:rec.autos				0.33	1.33	0.48	0.65	165.33	15.28
+rec.autos:comp.graphics				0.39	1.32	0.53	0.69	128.16	13.04
+comp.graphics:comp.graphics			0.44	1.30	0.57	0.72	86.36	10.52
+DIST 						CHB	EUC	MIN3	MIN4	HAM	MAN
